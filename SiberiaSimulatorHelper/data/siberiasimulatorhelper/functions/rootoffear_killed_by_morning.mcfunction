@@ -1,0 +1,3 @@
+kill @e[type=rootoffear:wilted]
+execute as @a at @s run playsound minecraft:entity.warden.dig master @s
+tellraw @a [{"color":"#70143C","text":"T"},{"color":"#771C3C","text":"h"},{"color":"#7E233D","text":"e "},{"color":"#842B3D","text":"s"},{"color":"#8B323D","text":"u"},{"color":"#923A3D","text":"n "},{"color":"#99423E","text":"r"},{"color":"#A0493E","text":"i"},{"color":"#A6513E","text":"s"},{"color":"#AD593F","text":"e"},{"color":"#B4603F","text":"s "},{"color":"#BB683F","text":"t"},{"color":"#C26F3F","text":"o "},{"color":"#C97740","text":"a "},{"color":"#CF7F40","text":"n"},{"color":"#D68640","text":"e"},{"color":"#DD8E41","text":"w "},{"color":"#E49641","text":"d"},{"color":"#EB9D41","text":"a"},{"color":"#F1A541","text":"y"},{"color":"#FFB442","text":"."}]
