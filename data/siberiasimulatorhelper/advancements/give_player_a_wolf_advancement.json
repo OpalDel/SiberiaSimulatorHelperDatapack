@@ -9,9 +9,16 @@
     "show_toast": true,
     "announce_to_chat": true
   },
+  "requirements": [
+    [ "me_hit_an_entity", "entity_hit_a_me"]
+  ],
+
   "criteria": {
-    "tick": {
-      "trigger": "minecraft:tick"
+    "me_hit_an_entity": {
+      "trigger": "minecraft:player_hurt_entity"
+    },
+    "entity_hit_a_me": {
+      "trigger": "minecraft:entity_hurt_player"
     }
   },
   "rewards": {
