@@ -1,6 +1,6 @@
 {
     "pack": {
-        "description": "Makes wolves, horses, and cats immune to powdered snow. Lead recipes only need string now. Kills a pesky mob at morning that doesn't usually die because of the eternal snow.",
+        "description": "Makes tameable animals immune to powdered snow. Gives player wolf on start. Lead recipes only need string now. Kills a pesky mob at morning that doesn't usually die because of the eternal snow.",
         "pack_format": 15
     }
 }
