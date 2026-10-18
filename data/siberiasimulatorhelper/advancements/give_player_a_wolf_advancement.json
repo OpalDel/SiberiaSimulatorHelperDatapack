@@ -24,7 +24,8 @@
   "rewards": {
     "loot": [],
     "recipes": [
-      "minecraft:lead"
+      "minecraft:lead",
+      "siberiasimulatorhelper:name_tag"
     ],
     "function": "siberiasimulatorhelper:give_player_a_wolf"
   }

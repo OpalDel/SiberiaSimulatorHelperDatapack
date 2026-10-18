@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  n",
+    " p ",
+    "p  "
+  ],
+  "key": {
+    "p": {
+      "item": "minecraft:paper"
+    },
+    "n": [
+      {
+        "item": "minecraft:gold_nugget"
+      },
+      {
+        "item": "minecraft:iron_nugget"
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    [
+      {
+        "item": "minecraft:gold_nugget"
+      },
+      {
+        "item": "minecraft:iron_nugget"
+      }
+    ]
+  ],
+  "result": {
+    "item": "minecraft:name_tag"
+  }
+}
