@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "decent_biomes:moon_petals",
+      "required": false
+    },
+    {
+      "id": "decent_biomes:red_moon_petals",
+      "required": false
+    },
+    {
+      "id": "decent_biomes:petalscherry",
+      "required": false
+    }
+  ]
+}
